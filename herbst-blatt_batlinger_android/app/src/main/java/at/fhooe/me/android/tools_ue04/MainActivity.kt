@@ -22,5 +22,8 @@ class MainActivity : AppCompatActivity() {
 
 	Log.d("Main", "LoC 2 method 2");
 	Log.d("Main", "LoC 3 method 2");
+
+	Log.d("Main", "This is soooo much fun2");
+	Log.d("Main", "This is soooo much fun3");
     }
 }
