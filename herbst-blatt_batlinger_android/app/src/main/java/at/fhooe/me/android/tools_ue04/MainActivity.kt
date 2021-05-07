@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
 
 	Log.d("Main", "This is soooo much fun");
 	Log.d("Main", "This is soooo much fun2");
+	Log.d("Main", "This is soooo much fun3");
     }
 }
