@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("new Method", "Hello World");
 
 	Log.d("Main", "This is soooo much fun");
+	Log.d("Main", "This is soooo much fun2");
     }
 }
