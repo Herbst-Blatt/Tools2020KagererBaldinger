@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     public fun thisisanewMethod() {
         Log.d("new Method", "Hello World");
+
+	Log.d("Main", "This is soooo much fun");
     }
 }
