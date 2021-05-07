@@ -9,11 +9,17 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 	Log.d("Main", "Hello World");
+
+	Log.d("Main", "LoC method 1");
     }
 
     public fun thisisanewMethod() {
         Log.d("new Method", "Hello World");
 
 	Log.d("Main", "This is soooo much fun");
+	
+	Log.d("Main", "LoC method 2");
+
+	Log.d("Main", "LoC 2 method 2");
     }
 }
