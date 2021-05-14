@@ -26,4 +26,12 @@ class MainActivity : AppCompatActivity() {
 	Log.d("Main", "This is soooo much fun2");
 	Log.d("Main", "This is soooo much fun3");
     }
+
+	fun sum(values: IntArray) {
+		var sum = 0;
+		for (value in values) {
+			sum += value;
+		}
+		return sum;
+	}
 }
